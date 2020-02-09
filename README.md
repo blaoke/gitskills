@@ -1,2 +1,3 @@
 # gitskills
-##i miss zj
+## i miss zj
+creating a new branch is quick
